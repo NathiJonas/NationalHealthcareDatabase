@@ -1,6 +1,6 @@
-k# NationalHealthcareDatabase
+# NationalHealthcareDatabase
 
-The NationalHealthcareDatabase solution is designed to support the South African Department of Health in transitioning from a paper-based system to a digital database and dashboard solution. It centralizes and organizes information about patie nts, doctors, hospitals, and pharmaceutical suppliers, offering an efficient, digital-first approach to healthcare management.
+The NationalHealthcareDatabase solution is designed to support the South African Department of Health in transitioning from a paper-based system to a digital database and dashboard solution. It centralizes and organizes information about patients, doctors, hospitals, and pharmaceutical suppliers, offering an efficient, digital-first approach to healthcare management.
 
 Project Structure
 
